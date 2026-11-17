@@ -1,0 +1,24 @@
+{
+  "name": "ai-customer-enquiry-automation",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI-assisted customer enquiry classification and follow-up workflow using n8n, OpenAI, and Airtable.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "test:watch": "node --test --watch"
+  },
+  "keywords": [
+    "ai-automation",
+    "n8n",
+    "openai",
+    "airtable",
+    "customer-enquiries",
+    "workflow-automation"
+  ],
+  "author": "Emmanuel Racham",
+  "license": "UNLICENSED"
+}
